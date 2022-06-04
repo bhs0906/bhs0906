@@ -12,3 +12,5 @@
 ### ✨ Profile
 <a href="https://github.com/bhs0906/MyProfile"><img src="https://img.shields.io/badge/MyProfile-6CFFFF?style=for-the-square&logoColor=white"></a>
 
+### 
+<a href="https://github.com/jihokim86/-team3-1st-_-project.git"><img src="https://img.shields.io/badge/first_project%20-%23E4405F.svg?&style=for-the-square"></a>
