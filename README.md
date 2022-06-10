@@ -39,7 +39,7 @@
  <a href="" target="_blank"><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white" /></a>
 </p>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhs0906&layout=compact&langs_count=5&theme=dracula&hide_border=true&hide=roff,css,shell,batchfile)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhs0906&layout=compact&langs_count=5&theme=dracula&hide_border=true&hide=roff,css,shell,batchfile,)
 
 <!-- <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-square&logo=youtube&logoColor=white"></a> -->
 <!-- <a><img src="https://img.shields.io/badge/codingjy1004@naver.com-ABF200?style=flat-square&logo=Naver&logoColor=white"/></a> -->
