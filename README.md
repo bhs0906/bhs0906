@@ -14,8 +14,8 @@
 ### techs that i've used at least once
 <p>
  <a href="" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/></a>
- <a href="" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white"/></a>
- <a href="" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/></a>
+<!-- <a href="" target="_blank"><img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=flat-square&logo=spring&logoColor=white"/></a>
+ <a href="" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/></a> -->
 <!-- <a href="" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/></a> -->
 <!-- <a href="" target="_blank"><img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/></a> -->
 <!-- <a href="" target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/></a> -->
@@ -24,7 +24,7 @@
 <!-- <a href="" target="_blank"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white"/></a> -->
   <br/>
   
- <a href="" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/></a>
+<!-- <a href="" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/></a> -->
  <a href="" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/></a>
  <a href="" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/></a>
   <br/>
@@ -35,7 +35,7 @@
   <br/>
  
  <a href="" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=flat-square&logo=apache&logoColor=white"/></a>
-  <a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
+<!-- <a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a> -->
  <a href="" target="_blank"><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white" /></a>
 </p>
 
