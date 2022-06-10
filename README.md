@@ -15,4 +15,4 @@
 ### :trophy: Project
 <a href="https://github.com/jihokim86/-team3-1st-_-project.git"><img src="https://img.shields.io/badge/first_Java_CLI%20-%23E4405F.svg?&style=for-the-square"></a>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
