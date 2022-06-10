@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=hyunseo%20Park&fontSize=70&fontColor=FFFFFF&animation=twinkling)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhs0906&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhs0906&layout=compact&langs_count=81)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhs0906&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=kr&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhs0906&layout=compact&langs_count=5&theme=dracula&hide=roff,css,shell,batchfile)
 
 
 ### 📚 My blog
