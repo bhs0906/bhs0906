@@ -35,8 +35,8 @@
   <br/>
  
  <a href="" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=flat-square&logo=apache&logoColor=white"/></a>
+  <a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
  <a href="" target="_blank"><img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white" /></a>
- <a href="" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
 </p>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhs0906&layout=compact&langs_count=5&theme=dracula&hide_border=true&hide=roff,css,shell,batchfile)
