@@ -7,6 +7,7 @@
 <a href="https://blog.naver.com/hg5112"><img src="https://img.shields.io/badge/Naver Blog-ABF200?style=for-the-square&logo=Naver&logoColor=white"/></a>
  ### :trophy: Project
 <a href="https://github.com/jihokim86/-team3-1st-_-project.git"><img src="https://img.shields.io/badge/first_Java_CLI%20-%23E4405F.svg?&style=for-the-square"></a>
+<a href="https://github.com/bhs0906/JavaFX_Oracle_Project"><img src="https://img.shields.io/badge/second_JavaFX&Oracle_GUI&DB%20-%2300f.svg?&style=for-the-square"></a>
  <br/> <br/> <br/>
 
  
