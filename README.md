@@ -9,8 +9,10 @@
 ### 📚 My blog
 <a href="https://blog.naver.com/hg5112"><img src="https://img.shields.io/badge/Naver Blog-ABF200?style=for-the-square&logo=Naver&logoColor=white"/></a>
  ### :trophy: Project
-<a href="https://github.com/jihokim86/-team3-1st-_-project.git"><img src="https://img.shields.io/badge/first_Java_CLI%20-%23E4405F.svg?&style=for-the-square"></a>
-<a href="https://github.com/bhs0906/JavaFX_Oracle_Project"><img src="https://img.shields.io/badge/second_JavaFX&Oracle_GUI&DB%20-%2300f.svg?&style=for-the-square"></a>
+<a href="https://github.com/jihokim86/-team3-1st-_-project.git"><img src="https://img.shields.io/badge/1_Java_직원관리%20-%23E4405F.svg?&style=for-the-square"></a>
+<a href="https://github.com/bhs0906/JavaFX_Oracle_Project"><img src="https://img.shields.io/badge/2_JavaFX_성적관리%20-%2300f.svg?&style=for-the-square"></a>
+ <a href="https://github.com/lkw-7859/JSP-Project.git"><img src="https://img.shields.io/badge/3_JSP_영화예매%20-%23121011.svg?&style=for-the-square"></a>
+  <a href="https://github.com/hyk8386/spring_project"><img src="https://img.shields.io/badge/4_Spring_캠핑샵%20-%236DB33F.svg?&style=for-the-square"></a>
  <br/> <br/> <br/>
 
  
@@ -74,7 +76,7 @@
 <a href="https://github.com/bhs0906/MyProfile"><img src="https://img.shields.io/badge/MyProfile-6CFFFF?style=for-the-square&logoColor=white"></a> -->
 
 
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- 차트기능 -->
+<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
  </div>
